@@ -83,8 +83,8 @@
     },
     {
       "localfile": "bin/QtWebEngineProcess.exe",
-      "packedhash": "7cc51d8b3466bd697d0171a9c23580f7dc9478089ccad6c8208796f4c80533af",
-      "packedsize": 227058,
+      "packedhash": "71d1ad6305e2d2b0d22b6bdaf04e63f1587193bdcf0aec0d9a05c32ec0483375",
+      "packedsize": 206239,
       "url": "bin/QtWebEngineProcess.exe.lzma",
       "unpackedhash": "cc6034e2232e79bc5a46ec6c41b80f0e62ea9f5a5affa91d90d1dbdfd158c4bb",
       "unpackedsize": 541072
