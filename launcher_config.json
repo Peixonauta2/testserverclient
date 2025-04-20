@@ -10,7 +10,7 @@ NOTE: Set it to "false" or only "" to not use the client folder, so everything w
 */
 {
 	"clientVersion": "13.42",
-	"launcherVersion": "1.2",
+	"launcherVersion": "1.3",
 	"replaceFolders": true,
 	"replaceFolderName": [
 		{
@@ -24,6 +24,6 @@ NOTE: Set it to "false" or only "" to not use the client folder, so everything w
 		}
 	],
 	"clientFolder": "Tibia",
-	"newClientUrl" : "https://github.com/Peixonauta2/testserverclient/releases/download/thirdrelase/client.zip",
+	"newClientUrl" : "https://github.com/Peixonauta2/testserverclient/releases/download/fourthrelease/client.zip",
 	"clientExecutable": "client.exe"
 }
